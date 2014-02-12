@@ -1,0 +1,30 @@
+.box {
+	width: 720px;
+	border: 1px solid grey;
+	padding: 10px;
+	border-width: 1px 1px;
+	background: white;
+}
+
+.main {
+	overflow: hidden;
+	background: silver;
+}
+
+.content {
+	float: left;
+	width: 65%;
+	background: silver;
+}
+
+.left_sidebar {
+	float: left;
+	width: 20%;
+	background: silver;
+}
+
+.right_sidebar {
+	float: left;
+	width: 15%;
+	background: silver;
+}
