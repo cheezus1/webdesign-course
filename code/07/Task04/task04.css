@@ -1,0 +1,15 @@
+.box {
+	width: 720px;
+	height: 20px;
+	border: 1px solid grey;
+	padding: 10px;
+	border-width: 1px 1px;
+	background: white;
+}
+
+.link {
+	width:25%;
+	background: silver;
+	float: left;
+	text-decoration: none;
+}
