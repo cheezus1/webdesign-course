@@ -1,0 +1,15 @@
+.main {
+	width: 950px;
+}
+
+ul li {
+	float:left;
+	display: inline;
+	list-style-type: none;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+
+ul li img {
+	width: 200px;
+}
