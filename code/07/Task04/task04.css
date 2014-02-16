@@ -1,15 +1,30 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
 .box {
-	width: 720px;
-	height: 20px;
-	border: 1px solid grey;
-	padding: 10px;
-	border-width: 1px 1px;
-	background: white;
+	width: 600px;
 }
 
 .link {
-	width:25%;
 	background: silver;
+	display: block;
+	width: 10em;
+	padding: 5px;
 	float: left;
 	text-decoration: none;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+li {
+	float: left;
+}
+
+ul {
+	list-style-type: none;
 }
